@@ -1,0 +1,15 @@
+{
+  "name": "fasos-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadhana Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "multiparty": "^4.1.3"
+  }
+}
